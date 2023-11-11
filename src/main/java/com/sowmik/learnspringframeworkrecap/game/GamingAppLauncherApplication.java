@@ -1,7 +1,5 @@
-package com.sowmik.learnspringframeworkrecap;
+package com.sowmik.learnspringframeworkrecap.game;
 
-import com.sowmik.learnspringframeworkrecap.game.GameRunner;
-import com.sowmik.learnspringframeworkrecap.game.GamingConsole;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
